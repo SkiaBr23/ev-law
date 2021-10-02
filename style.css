@@ -2571,8 +2571,8 @@ body .modal-backdrop {
   text-transform: capitalize;
   line-height: normal;
 }
-.rs-team-slider .owl-item .team-item .text-bottom h4.person-name a {
-  color: #ffffff;
+.rs-team-slider .owl-item .team-item .text-bottom h4.person-name {
+  color: #b69d74;
 }
 .rs-team-slider .owl-item .team-item .text-bottom h4.person-name a:hover {
   color: #b69d74;
