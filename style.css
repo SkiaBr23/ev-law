@@ -4767,7 +4767,7 @@ body .modal-backdrop {
   display: block;
 }
 .rs-footer .footer-top {
-  padding: 105px 0 100px;
+  padding: 70px 0 70px;
   color: #d1d1d1;
 }
 .rs-footer .footer-top .footer-title {
@@ -4797,7 +4797,7 @@ body .modal-backdrop {
   color: #d1d1d1;
 }
 .rs-footer .footer-top .about-widget .social-links {
-  margin-top: 40px;
+  margin-top: 10px;
 }
 .rs-footer .footer-top .about-widget .social-links li {
   display: inline;
